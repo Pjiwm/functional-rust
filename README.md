@@ -1,6 +1,8 @@
 
 # functional_rs
-`functional_rs` is an experimental crate that brings functional programming concepts to Rust using Nightly features. By implementing `Fn` on structs, it enables function composition, currying, and other higher-order functional programming patterns. The goal is to keep the syntax as concise as possible, making functional patterns easy to use without cluttering the code.
+`functional_rs` is an experimental crate that brings functional programming concepts to Rust using Nightly features.
+By implementing `Fn` on structs, it enables function composition, currying, and other higher-order functional programming patterns.
+The goal is to keep the syntax as concise as possible, making functional patterns easy to use without cluttering the code.
 
 This crate is designed for **Nightly Rust** and uses experimental features, so it’s not stable yet.
 
