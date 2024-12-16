@@ -1,0 +1,8 @@
+[package]
+name = "functional-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["Pjiwm"]
+description = "A Rust library for functional programming, providing function composition, currying, and higher-order functions."
+
+[dependencies]
